@@ -29,3 +29,7 @@ Afterwards I split the data using train_test_split and used the LogisticRegressi
 ## Summary
 
 The result from the 2 models showed a 4% increase in accuracy score, 1% decrease in the precision of Risky loans, and a 9% increase on the recall for Risky loans. Based on the models results depending on what is needed from the model I would generally advise to use the second model because of the recall increase on risky loans which means which loans that are actually risky loans were correctly identified as risky loans. 
+
+## Contributors
+
+Jose Medina
